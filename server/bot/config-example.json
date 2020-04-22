@@ -1,0 +1,14 @@
+{
+	"discord": {
+		"client_id": "1234567890123456789",
+		"bot_token": "your.token.here.please"
+	},
+	"guilds": {
+		"guild_name_here": {
+			"guild_id": 1234567890123456789,
+			"channels": {
+				"channel_name_here": 1234567890123456789
+			}
+		}
+	}
+}
