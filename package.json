@@ -1,0 +1,10 @@
+{
+  "name": "horus",
+  "version": "0.0.1",
+  "main": "./server/bot/discord.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {}
+}
